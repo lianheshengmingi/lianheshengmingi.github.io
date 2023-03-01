@@ -1,4 +1,4 @@
-![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/chuanlian.jpeg)
+![logo](https://github.com/lianheshengmingi/lianheshengmingi.github.io/raw/main/chuanlian.jpeg)
 # 联署声明（修正版v0.3）
 
 * 题目：中国公民在俄罗斯入侵乌克兰一周年时的三项声明
