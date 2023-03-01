@@ -32,7 +32,7 @@
 
 [填写联署地址](https://airtable.com/shrEUTUkbNcZnGGmR)
 
-![QRcode](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/generate1.gif)
+![QRcode](https://github.com/lianheshengmingi/lianheshengmingi.github.io/raw/main/generate1.gif)
 
 [讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
 
@@ -41,7 +41,7 @@
 
 QR code 二维码:
 
-![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session.png)
+![logo](https://github.com/lianheshengmingi/lianheshengmingi.github.io/raw/main/session.png)
 
 # 发起者
 
@@ -51,4 +51,4 @@ QR code 二维码:
 
 # 小目标百人联署达成
 
-![联署进展预览](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/shot100.png)
+![联署进展预览](https://github.com/lianheshengmingi/lianheshengmingi.github.io/raw/main/shot100.png)
